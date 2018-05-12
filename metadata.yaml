@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/524
     wikipedia: http://en.wikipedia.org/wiki/American_Tract_Society
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27146#Select-Temperance-Tracts
 gutenberg_bookshelf: Sociology
 gutenberg_issued: '2008-11-04'
 gutenberg_type: Text
